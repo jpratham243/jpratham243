@@ -4,7 +4,7 @@
 💡 **Innovating, Learning, and Growing Every Day**  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jpratham243&label=👀+Profile+Views&color=ff69b4&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=jpratham243&label=👀+Profile+Views%20%20%20%20%20&color=ff69b4&style=flat-square" alt="profile views"/>
 </p>
 
 ---
